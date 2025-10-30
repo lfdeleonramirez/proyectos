@@ -1,2 +1,2 @@
-# articulos
-Creación de artículos de tecnología
+# Proyectos
+Creación de proyectos de tecnología
